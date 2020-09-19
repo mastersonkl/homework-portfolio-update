@@ -16,7 +16,7 @@ Portfolio page to introduce myself, show my work, and to give different ways to 
 <hr></hr>
 <h2> About Page </h2>
 
-- Introduce myself, my background, and education. 
+- Introduced myself, my background, and education. 
 
 ![About Page](images/aboutMe.png)
 
@@ -25,6 +25,8 @@ Portfolio page to introduce myself, show my work, and to give different ways to 
 <hr></hr>
 
 <h2>Porfolio Page</h2>
+
+- Page to show my projects I will continue to add more as they are created.
 
 <strong>Find Your Climb</strong> - Picture of the website. Bottom has decription of the project. If you click on the description it will take you to the deployed project on Git Hub.
 
@@ -37,9 +39,13 @@ Portfolio page to introduce myself, show my work, and to give different ways to 
 <h2>Contact Page</h2>
 
 -Lists ways to get in touch with me
+
 <strong>Email</strong> -click on my email address and will open to your email with my email populating. 
+
 <strong>Git Hub</strong> -click Look at my Git Hub and it will take you to my profile in a new tab. 
+
 <strong>LinkedIn</strong> -click on Check out my LinkedIn and it will open my profile in a new tab.
+
 <strong>Resume</strong> -click on Here is my resume and a new tab will open of a PDF of my latest resume. 
 
 -Scroll down to Send Me a Message! 
